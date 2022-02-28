@@ -1,0 +1,26 @@
+{
+  "type": "module",
+  "name": "use-private-package",
+  "version": "0.1.0",
+  "description": "Testing.",
+  "main": "index.js",
+  "bin": {
+    "blah": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@varungandhi-src/private-package": "0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varungandhi-src/use-private-package.git"
+  },
+  "author": "Varun Gandhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varungandhi-src/use-private-package/issues"
+  },
+  "homepage": "https://github.com/varungandhi-src/use-private-package#readme"
+}
